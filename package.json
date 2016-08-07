@@ -2,8 +2,8 @@
   "name": "angular2-hero-test",
   "version": "0.0.0",
   "dependencies": {
-    "gzippo": "~0.2.0",
-    "express": "~3.4.8"
+    "express": "^3.4.8",
+    "gzippo": "^0.2.0"
   },
   "devDependencies": {
     "grunt": "~0.4.1",
